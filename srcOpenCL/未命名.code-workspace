@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "/Users/starwish/Desktop/CNN"
+		},
+		{
+			"path": "/Users/starwish/Desktop/CNNtest"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"*.tcc": "cpp",
+			"unordered_map": "cpp",
+			"fstream": "cpp",
+			"istream": "cpp",
+			"numeric": "cpp",
+			"sstream": "cpp"
+		}
+	}
+}
